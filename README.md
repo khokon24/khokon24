@@ -2,14 +2,12 @@
 
 Frontend Web Developer from Bangladesh 🇧🇩
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=00F72A&center=true&vCenter=true&width=600&lines=Frontend+Developer;Responsive+Web+Designer;Fiverr+Seller;Clean+Code+Lover" />
-</p>
-
-<p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F72A&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;Responsive+Web+Designer;Fiverr+Seller;Building+Modern+Websites" />
+</div>
+<div align="center">
   <img src="https://img.shields.io/badge/Fiverr-Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-</p>
-
+</div>
 ## 🚀 About Me
 
 I am a passionate Frontend Developer who loves building clean, responsive and modern websites.  
@@ -31,6 +29,11 @@ I specialize in HTML & CSS and focus on creating user-friendly and visually appe
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight" />
+</div>
 
 ## 🌍 Portfolio
 
