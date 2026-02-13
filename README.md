@@ -26,10 +26,10 @@ I build clean, responsive and modern websites using HTML & CSS.
 
 ## 📊 GitHub Stats
 
-![Khokon's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=khokon24&layout=compact&theme=tokyonight)
+![Top Languages](https://stats.vercel.app/api/top-langs/?username=khokon24&layout=compact&theme=tokyonight)
