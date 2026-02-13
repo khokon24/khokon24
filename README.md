@@ -1,35 +1,30 @@
-# Hi, I'm Khokon Ahmed 👋
-
-### 💻 Frontend Web Developer
-
-I build clean, responsive and modern websites using HTML & CSS.
+<h1 align="center">Hi 👋, I'm Khokon Ahmed</h1>
+<h3 align="center">Frontend Web Developer from Bangladesh 🇧🇩</h3>
 
 ---
 
-## 🚀 Skills
-- HTML5
-- CSS3
-- Responsive Design
-- Git & GitHub
+## 🚀 About Me
+
+I am a passionate Frontend Developer who loves building clean, responsive and modern websites using HTML & CSS.  
+I focus on creating user-friendly designs and writing clean code.
+
+---
+
+## 🛠 Skills
+
+- HTML5  
+- CSS3  
+- Responsive Web Design  
+- Git & GitHub  
 
 ---
 
 ## 🌍 Portfolio
+
 🔗 https://khokon24.github.io/
 
 ---
 
 ## 📫 Contact Me
-- Email: contact.khokonweb@gmail.com
-- 
----
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight)
-
----
-
-## 💻 Top Languages
-
-![Top Languages](https://stats.vercel.app/api/top-langs/?username=khokon24&layout=compact&theme=tokyonight)
+📧 contact.khokonweb@gmail.com
