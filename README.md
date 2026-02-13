@@ -3,7 +3,7 @@
 <h3 align="center">Frontend Web Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F72A&center=true&vCenter=true&width=500&lines=Frontend+Developer;Responsive+Web+Designer;Fiverr+Seller;Clean+Code+Lover" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=00F72A&center=true&vCenter=true&width=600&lines=Frontend+Developer;Responsive+Web+Designer;Fiverr+Seller;Clean+Code+Lover" />
 </p>
 ---
 
