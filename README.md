@@ -1,11 +1,14 @@
+# Hi 👋, I'm Khokon Ahmed
 
-<h1 align="center">Hi 👋, I'm Khokon Ahmed</h1>
-<h3 align="center">Frontend Web Developer from Bangladesh 🇧🇩</h3>
+Frontend Web Developer from Bangladesh 🇧🇩
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1500&color=00F72A&center=true&vCenter=true&width=600&lines=Frontend+Developer;Responsive+Web+Designer;Fiverr+Seller;Clean+Code+Lover" />
 </p>
----
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fiverr-Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+</p>
 
 ## 🚀 About Me
 
