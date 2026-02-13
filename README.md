@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Khokon Ahmed 👋
 
-<!--
-**khokon24/khokon24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Web Developer
 
-Here are some ideas to get you started:
+I build clean, responsive and modern websites using HTML & CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+- HTML5
+- CSS3
+- Responsive Design
+- Git & GitHub
+
+---
+
+## 🌍 Portfolio
+🔗 https://khokon24.github.io/
+
+---
+
+## 📫 Contact Me
+- Email: contact.khokonweb@gmail.com
