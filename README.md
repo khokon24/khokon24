@@ -31,10 +31,9 @@ I specialize in HTML & CSS and focus on creating user-friendly and visually appe
 ---
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
+</p>
 ## 🌍 Portfolio
 
 🔗 https://khokon24.github.io/
