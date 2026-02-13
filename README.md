@@ -27,7 +27,10 @@ I specialize in HTML & CSS and focus on creating user-friendly and visually appe
 
 ---
 ## 📊 GitHub Stats
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=khokon24&show_icons=true&theme=radical" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khokon24&theme=radical" />
+</p>
 
 ## 🌍 Portfolio
 
