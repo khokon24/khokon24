@@ -3,11 +3,8 @@
 <h3 align="center">Frontend Web Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <a href="https://khokon24.github.io/"><img src="https://img.shields.io/badge/🌍_Portfolio-Visit-blue?style=for-the-badge"></a>
-  <a href="https://www.fiverr.com/khokondev"><img src="https://img.shields.io/badge/Fiverr-khokondev-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
-  <a href="mailto:contact.khokonweb@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F72A&center=true&vCenter=true&width=500&lines=Frontend+Developer;Responsive+Web+Designer;Fiverr+Seller;Clean+Code+Lover" />
 </p>
-
 ---
 
 ## 🚀 About Me
