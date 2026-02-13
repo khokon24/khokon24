@@ -3,10 +3,7 @@
 Frontend Web Developer from Bangladesh 🇧🇩
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F72A&center=true&vCenter=true&width=750&lines=Frontend+Web+Developer;Responsive+Web+Designer;Fiverr+Seller;Building+Modern+Websites" />
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/Fiverr-Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=00F72A&center=true&vCenter=true&width=800&lines=Frontend+Web+Developer;Responsive+Web+Designer;Fiverr+Seller;Building+Modern+Websites" />
 </div>
 ## 🚀 About Me
 
