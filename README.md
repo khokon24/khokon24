@@ -51,3 +51,8 @@ I specialize in HTML & CSS and focus on creating user-friendly and visually appe
 
 📧 contact.khokonweb@gmail.com  
 🌐 Fiverr: https://www.fiverr.com/khokondev
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/khokon24/khokon24/output/github-contribution-grid-snake.svg" />
+</p>
