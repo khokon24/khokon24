@@ -30,7 +30,7 @@
 
 ---
 
-## 📊 GitHub স্ট্যাটাস
+## 📊 GitHub Status
 
 <h2 align="center">📊 GitHub Stats</h2>
 
