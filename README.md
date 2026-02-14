@@ -34,6 +34,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight" />
 </p>
+
+---
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
