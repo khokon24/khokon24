@@ -41,12 +41,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khokon24&theme=tokyo-night&hide_border=true" />
 </p>
 
-<h2>🌐 Portfolio</h2>
-
-<p>
-🚀 <strong>Live Website:</strong><br/>
-👉 <a href="https://khokon24.github.io/" target="_blank">Visit My Portfolio</a>
-</p>
+🚀 **Live Website:**  
+👉 Visit My Portfolio: https://khokon24.github.io/
 
 ---
 
