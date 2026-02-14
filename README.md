@@ -30,7 +30,7 @@
 
 ---
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khokon24&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=khokon24&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
