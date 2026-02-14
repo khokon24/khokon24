@@ -29,6 +29,9 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khokon24&theme=tokyonight" />
+</p>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
