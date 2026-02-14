@@ -45,4 +45,4 @@
 ## 📬 Contact Me
 
 - 📧 contact.khokonweb@gmail.com  
-- - 💼 Fiverr: https://www.fiverr.com/khokondev
+- 💼 Fiverr: https://www.fiverr.com/khokondev
