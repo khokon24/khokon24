@@ -29,8 +29,11 @@
 </p>
 
 ---
-![Khokon's GitHub stats](https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight&cache_seconds=1800)
-![Khokon's GitHub stats](https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khokon24&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=khokon24&theme=tokyonight)
 
