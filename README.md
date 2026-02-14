@@ -30,9 +30,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub স্ট্যাটাস
 
-![GitHub Streak](https://streak-stats.demolab.com?user=khokon24&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khokon24&theme=tokyonight" />
+</p>
 
 ---
 
