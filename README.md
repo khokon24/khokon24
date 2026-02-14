@@ -29,12 +29,11 @@
 </p>
 
 ---
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h2 align="center">📊 GitHub Overview</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=khokon24&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight" />
 </p>
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
