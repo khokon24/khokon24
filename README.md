@@ -44,7 +44,7 @@
 ## 🌐 Portfolio
 
 🚀 **Live Website:**  
-👉 [Click Here to Visit](https://khokon24.github.io/)
+👉 [Visit My Portfolio](https://khokon24.github.io/)
 
 ---
 
