@@ -29,11 +29,12 @@
 </p>
 
 ---
-
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=radical" />
-</p>
+
+![Khokon's GitHub stats](https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=khokon24&theme=tokyonight)
+
 ---
 
 ## 🌍 Portfolio
