@@ -36,7 +36,11 @@
   <img src="https://streak-stats.demolab.com?user=khokon24&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khokon24&theme=tokyo-night" />
+</p>
 ---
+
 
 <h2 align="center">💼 Available For Freelance Work</h2>
 
