@@ -32,6 +32,8 @@
 
 ## 📊 GitHub স্ট্যাটাস
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khokon24&theme=tokyonight" />
 </p>
