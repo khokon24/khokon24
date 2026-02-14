@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khokon Ahmed</h1>
 <h3 align="center">Frontend Web Developer from Bangladesh 🇧🇩</h3>
+<br/>
 
 <p align="center">
   <a href="https://www.fiverr.com/khokondev" target="_blank">
@@ -35,15 +36,13 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=khokon24&theme=tokyonight" />
 </p>
----
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=khokon24&theme=tokyo-night&hide_border=true" />
 </p>
 
-## 🌍 Portfolio
-
-🔗 https://khokon24.github.io/
+🌐 **Live Portfolio:**  
+👉 https://khokon24.github.io/
 
 ---
 
