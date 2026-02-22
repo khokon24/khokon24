@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Khokon Ahmed</h1>
-<h3 align="center">Frontend Web Developer from Bangladesh 🇧🇩</h3>
-<br/>
+## 🔥 Available for Freelance Work  
 
-<p align="center">
-  <a href="https://www.fiverr.com/khokondev" target="_blank">
-    <img src="https://img.shields.io/badge/Hire%20Me-Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+💼 Open for: Frontend Development | HTML | CSS | Responsive Design  
+
+<p align="left">
+  <a href="https://www.fiverr.com/khokondev">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://khokon24.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -12,10 +16,10 @@
 
 ## 🚀 About Me
 
-- 💻 Passionate Frontend Developer
-- 🎨 I love building clean & responsive websites
-- 🌱 Currently learning advanced JavaScript
-- 🎯 My goal is to work with international clients
+🚀 Passionate Frontend Developer  
+💻 Specialized in HTML, CSS & Responsive Design  
+📈 Focused on building clean & user-friendly websites  
+🌍 Open to work with international clients
 
 ---
 
