@@ -1,70 +1,75 @@
-# 👋 Hi, I'm Khokon Ahmed
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Khokon%20Ahmed&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-### 🚀 Frontend Developer | HTML • CSS • JavaScript Specialist  
+<h1 align="center">👋 Hi, I'm Khokon Ahmed</h1>
+<h3 align="center">🚀 Frontend Developer | HTML • CSS • JavaScript</h3>
 
-Helping businesses build modern, responsive & high-converting websites.  
-🌍 Based in Bangladesh | Available Worldwide  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Responsive+Website+Expert;Landing+Page+Specialist;Fiverr+Freelancer;Clean+%26+Modern+UI+Designer" />
+</p>
 
 ---
 
-## 🔥 Available for Freelance Work  
+## 🔥 Available for Freelance Work
 
-💼 **Services I Offer:**  
-- Modern Business Websites  
-- Landing Pages  
-- Portfolio Websites  
-- Fully Responsive Design  
-- Website Redesign  
+💻 I build:
 
-### 🔗 Connect With Me  
+✔ Modern Business Websites  
+✔ High-Converting Landing Pages  
+✔ Portfolio Websites  
+✔ Fully Responsive Designs  
+✔ Website Redesign & Fixes  
 
-[![Fiverr](https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/khokondev)  
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://khokon24.github.io)
+<p align="center">
+  <a href="https://www.fiverr.com/khokondev">
+    <img src="https://img.shields.io/badge/Hire%20Me%20on%20Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
+  </a>
+  <a href="https://khokon24.github.io">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me  
 
-- 🚀 Passionate Frontend Developer  
-- 💻 Specialized in Clean & Responsive Web Design  
-- 📱 Mobile-Friendly Website Expert  
-- 🎨 Focused on Modern UI & User Experience  
-- 🌱 Currently Improving Advanced JavaScript Skills  
+🚀 Passionate Frontend Developer  
+🎯 Specialized in Clean & Responsive Web Design  
+📱 Mobile-Friendly Website Expert  
+⚡ Focused on Performance & Modern UI  
+🌱 Continuously Improving JavaScript Skills  
 
 ---
 
-## 🛠️ Skills  
+## 🛠 Tech Stack  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge&logo=googlechrome&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Khokon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khokon24&show_icons=true&theme=radical&hide_border=true" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khokon24&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khokon24&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-## 📫 Contact  
+## 🌐 Connect With Me  
 
 📧 Email: your-email@example.com  
 💼 Fiverr: https://www.fiverr.com/khokondev  
-🌐 Portfolio: https://khokon24.github.io  
+🌍 Portfolio: https://khokon24.github.io  
 
 ---
 
-⭐ If you like my work, feel free to connect and collaborate!
-------------------------------------------------------------------------
-
-```{=html}
 <p align="center">
-```
-⭐ If you like my work, feel free to connect and collaborate!
-```{=html}
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer"/>
 </p>
-```
