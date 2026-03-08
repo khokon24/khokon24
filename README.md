@@ -64,7 +64,7 @@
 
 ## 🌐 Connect With Me  
 
-📧 Email: your-email@example.com  
+📧 Email: contact.khokonweb@gmail.com  
 💼 Fiverr: https://www.fiverr.com/khokondev  
 🌍 Portfolio: https://khokon24.github.io  
 
